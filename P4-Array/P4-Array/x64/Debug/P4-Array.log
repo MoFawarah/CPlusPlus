@@ -1,0 +1,3 @@
+﻿  P4-Array.cpp
+C:\Users\m.fawareh\Desktop\CPP\P4-Array\P4-Array\P4-Array.cpp(78,1): error C4700: uninitialized local variable 'num1' used
+C:\Users\m.fawareh\Desktop\CPP\P4-Array\P4-Array\P4-Array.cpp(78,1): error C4700: uninitialized local variable 'sum' used

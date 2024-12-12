@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E459022-766F-450D-A0B5-A1AB4CED9B5C}|AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.vcxproj|C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E459022-766F-450D-A0B5-A1AB4CED9B5C}|AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.vcxproj|solutionrelative:AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E459022-766F-450D-A0B5-A1AB4CED9B5C}|AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.vcxproj|C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\MyInputLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E459022-766F-450D-A0B5-A1AB4CED9B5C}|AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.vcxproj|solutionrelative:AlgorithmsAndProplemSolvingLevel02\\MyInputLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E459022-766F-450D-A0B5-A1AB4CED9B5C}|AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.vcxproj|C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\MyLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E459022-766F-450D-A0B5-A1AB4CED9B5C}|AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.vcxproj|solutionrelative:AlgorithmsAndProplemSolvingLevel02\\MyLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyInputLibrary.h",
+              "DocumentMoniker": "C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\MyInputLibrary.h",
+              "RelativeDocumentMoniker": "AlgorithmsAndProplemSolvingLevel02\\MyInputLibrary.h",
+              "ToolTip": "C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\MyInputLibrary.h",
+              "RelativeToolTip": "AlgorithmsAndProplemSolvingLevel02\\MyInputLibrary.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T07:44:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLibrary.h",
+              "DocumentMoniker": "C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\MyLibrary.h",
+              "RelativeDocumentMoniker": "AlgorithmsAndProplemSolvingLevel02\\MyLibrary.h",
+              "ToolTip": "C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\MyLibrary.h",
+              "RelativeToolTip": "AlgorithmsAndProplemSolvingLevel02\\MyLibrary.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T07:30:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ViewState": "AgIAAFAHAAAAAAAAAAAwwF8HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T12:23:50.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlgorithmsAndProplemSolvingLevel02.cpp",
+              "DocumentMoniker": "C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.cpp",
+              "RelativeDocumentMoniker": "AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.cpp",
+              "ToolTip": "C:\\Users\\m.fawareh\\Desktop\\CPP\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.cpp",
+              "RelativeToolTip": "AlgorithmsAndProplemSolvingLevel02\\AlgorithmsAndProplemSolvingLevel02.cpp",
+              "ViewState": "AgIAALIEAAAAAAAAAAAEwO8DAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T06:17:21.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

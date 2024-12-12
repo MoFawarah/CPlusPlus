@@ -1,0 +1,15 @@
+﻿  AlgorithmsAndProplemSolvingLevel02.cpp
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\MyInputLibrary.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'AlgorithmsAndProplemSolvingLevel02.cpp')
+  
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(173,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(635,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(636,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(749,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(931,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(956,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(966,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02\AlgorithmsAndProplemSolvingLevel02.cpp(1016,6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AlgorithmsAndProplemSolvingLevel02.vcxproj -> C:\Users\m.fawareh\Desktop\CPP\AlgorithmsAndProplemSolvingLevel02\x64\Debug\AlgorithmsAndProplemSolvingLevel02.exe
