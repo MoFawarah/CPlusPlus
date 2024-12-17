@@ -1,0 +1,2 @@
+﻿ObjectByRef.obj : error LNK2005: main already defined in addingVectorToObj.obj
+D:\C++\OOP\ByRef\ObjectByRef\x64\Debug\ObjectByRef.exe : fatal error LNK1169: one or more multiply defined symbols found

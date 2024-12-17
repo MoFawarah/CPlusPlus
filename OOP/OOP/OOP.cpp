@@ -1,16 +1,20 @@
+
 #include <iostream>
-#include "clsPerson.h"
-#include "clsEmployee.h"
-using namespace std;
+#include "clsUtil.h"
+#include "clsInputValidate.h"
+#include "clsStringNew.h"
 
 int main()
+{ 
 
-{
+    clsStringNew S1("  kk  YYY uuu  o    p   o");
 
-    clsEmployee Employee1(10, "Mohammed", "Abu-Hadhoud", "A@a.com", "8298982", "CEO", "ProgrammingAdvices", 5000);
+    string word = "mohammad HATEM";
+    
+    cout << clsStringNew::CountLetter(word, 'M');
 
-    Employee1.Print();
 
-    system("pause>0");
+
+    
     return 0;
 }

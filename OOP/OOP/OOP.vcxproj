@@ -130,8 +130,13 @@
     <ClCompile Include="OOP.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="clsDate.h" />
     <ClInclude Include="clsEmployee.h" />
+    <ClInclude Include="clsInputValidate.h" />
     <ClInclude Include="clsPerson.h" />
+    <ClInclude Include="clsString.h" />
+    <ClInclude Include="clsStringNew.h" />
+    <ClInclude Include="clsUtil.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

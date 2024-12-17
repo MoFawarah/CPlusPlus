@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\C\u002B\u002B\\OOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B99A872-C550-4662-890B-4E4B252AA9B3}|OOP\\OOP.vcxproj|D:\\C\u002B\u002B\\OOP\\OOP\\clsStringNew.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B99A872-C550-4662-890B-4E4B252AA9B3}|OOP\\OOP.vcxproj|solutionrelative:OOP\\clsStringNew.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B99A872-C550-4662-890B-4E4B252AA9B3}|OOP\\OOP.vcxproj|D:\\C\u002B\u002B\\OOP\\OOP\\OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2B99A872-C550-4662-890B-4E4B252AA9B3}|OOP\\OOP.vcxproj|solutionrelative:OOP\\OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B99A872-C550-4662-890B-4E4B252AA9B3}|OOP\\OOP.vcxproj|D:\\C\u002B\u002B\\OOP\\OOP\\clsEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B99A872-C550-4662-890B-4E4B252AA9B3}|OOP\\OOP.vcxproj|solutionrelative:OOP\\clsEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B99A872-C550-4662-890B-4E4B252AA9B3}|OOP\\OOP.vcxproj|D:\\C\u002B\u002B\\OOP\\OOP\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B99A872-C550-4662-890B-4E4B252AA9B3}|OOP\\OOP.vcxproj|solutionrelative:OOP\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,40 +91,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "clsEmployee.h",
-              "DocumentMoniker": "D:\\C\u002B\u002B\\OOP\\OOP\\clsEmployee.h",
-              "RelativeDocumentMoniker": "OOP\\clsEmployee.h",
-              "ToolTip": "D:\\C\u002B\u002B\\OOP\\OOP\\clsEmployee.h",
-              "RelativeToolTip": "OOP\\clsEmployee.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T08:00:46.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clsPerson.h",
-              "DocumentMoniker": "D:\\C\u002B\u002B\\OOP\\OOP\\clsPerson.h",
-              "RelativeDocumentMoniker": "OOP\\clsPerson.h",
-              "ToolTip": "D:\\C\u002B\u002B\\OOP\\OOP\\clsPerson.h",
-              "RelativeToolTip": "OOP\\clsPerson.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T07:59:53.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "OOP.cpp",
               "DocumentMoniker": "D:\\C\u002B\u002B\\OOP\\OOP\\OOP.cpp",
               "RelativeDocumentMoniker": "OOP\\OOP.cpp",
               "ToolTip": "D:\\C\u002B\u002B\\OOP\\OOP\\OOP.cpp",
               "RelativeToolTip": "OOP\\OOP.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-14T06:51:43.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsStringNew.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\OOP\\OOP\\clsStringNew.h",
+              "RelativeDocumentMoniker": "OOP\\clsStringNew.h",
+              "ToolTip": "D:\\C\u002B\u002B\\OOP\\OOP\\clsStringNew.h",
+              "RelativeToolTip": "OOP\\clsStringNew.h",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T11:25:34.662Z",
               "EditorCaption": ""
             }
           ]

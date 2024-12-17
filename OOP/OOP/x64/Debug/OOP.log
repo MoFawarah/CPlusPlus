@@ -1,2 +1,17 @@
 ﻿  OOP.cpp
+D:\C++\OOP\OOP\clsStringNew.h(24,16): warning C4305: '=': truncation from 'int' to 'char'
+  (compiling source file 'OOP.cpp')
+  
+D:\C++\OOP\OOP\clsStringNew.h(24,16): warning C4309: '=': truncation of constant value
+  (compiling source file 'OOP.cpp')
+  
+D:\C++\OOP\OOP\clsStringNew.h(30,16): warning C4305: '=': truncation from 'int' to 'char'
+  (compiling source file 'OOP.cpp')
+  
+D:\C++\OOP\OOP\clsStringNew.h(30,16): warning C4309: '=': truncation of constant value
+  (compiling source file 'OOP.cpp')
+  
+D:\C++\OOP\OOP\clsStringNew.h(209,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
   OOP.vcxproj -> D:\C++\OOP\x64\Debug\OOP.exe
