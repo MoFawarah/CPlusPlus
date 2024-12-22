@@ -35,4 +35,5 @@ C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(427,11): warnin
 C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(553,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file 'OOP.cpp')
   
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsClient.h(314,1): warning C4715: 'clsClient::DeleteClientByAccountNumber': not all control paths return a value
   OOP.vcxproj -> C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\x64\Debug\OOP.exe

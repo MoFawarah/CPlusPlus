@@ -14,6 +14,7 @@ private:
 	string _Name;
 	string _Phone;
 	double _AccountBalance;
+	bool _MarkForDelete = false;
 
 
 public:
@@ -37,6 +38,18 @@ public:
 	}
 
 	// Getters and Setters:
+	void setMarkForDelete(bool value)
+	{
+		_MarkForDelete = value;
+	}
+
+	bool getMarkForDelete()
+	{
+		return _MarkForDelete;
+	}
+
+	__declspec(property(get = getMarkForDelete, put = setMarkForDelete)) bool MarkForDelete;
+
 	void setAccountNumber(string AccountNumber)
 	{
 		this->_AccountNumber = AccountNumber;
@@ -110,10 +123,8 @@ public:
 		cout << "Enter AccountBalance? ";
 		cin >> this->_AccountBalance;
 	}
-
 	clsClient ReadNewClient()
 	{
-		
 		cout << "Enter Account Number? ";
 		getline(cin >> ws, this->_AccountNumber);
 		cout << "Enter PinCode? ";
@@ -125,13 +136,12 @@ public:
 		cout << "Enter AccountBalance? ";
 		cin >> this->_AccountBalance;
 		return *this;
-
 	}
 
 	string ConvertRecordToLine(clsClient client, string seperator = "#//#")
 	{
-		return client.AccountNumber + seperator + client.PinCode + seperator + client.Name + seperator + client.Phone + seperator + to_string(client.AccountBalance);
-
+		return client.AccountNumber + seperator + client.PinCode + seperator + client.Name + seperator + 
+			client.Phone + seperator + to_string(client.AccountBalance);
 	}
 
 	clsClient ConvertLineToRecord(string line, string seperator = "#//#")
@@ -148,8 +158,6 @@ public:
 		
 
 		return client;
-
-
 	}
 
 
@@ -217,6 +225,95 @@ public:
 		return vClients;
 	}
 
+	string ReadClientAccountNumber()
+	{
+		string AccountNumber = "";
+		cout << "\nPlease enter AccountNumber? ";
+		cin >> AccountNumber;
+		return AccountNumber;
+	}
+
+	bool FindClientByAccNumber(string accNum, vector <clsClient> vClients, clsClient &client)
+	{
+		//vector<clsClient> vClinets;
+		//vClinets = LoadCleintsDataFromFile();
+		for (clsClient c : vClients)
+		{
+			if (c.AccountNumber == accNum)
+			{
+				client = c;
+				return true;
+			}
+		}
+
+		return false;
+	}
+
+	vector <clsClient> SaveCleintsDataToFile(string FileName, vector <clsClient> vClients)
+	{
+		fstream MyFile;
+		MyFile.open(FileName, ios::out); //overwrite
+		string DataLine;
+		if (MyFile.is_open())
+		{
+			for (clsClient C : vClients)
+			{
+				if (C.MarkForDelete == false)
+				{
+					//we only write records that are not marked for delete.
+				    DataLine = ConvertRecordToLine(C);
+					MyFile << DataLine << endl;
+				}
+			}
+			MyFile.close();
+		}
+		return vClients;
+	}
+
+
+
+	bool MarkClientForDeleteByAccountNumber(string AccountNumber, vector <clsClient>& vClients)
+	{
+		for (clsClient& C : vClients)
+		{
+			if (C.AccountNumber == AccountNumber)
+			{
+				C.MarkForDelete = true;
+				return true;
+			}
+		}
+		return false;
+	}
+
+
+	bool DeleteClientByAccountNumber(string AccountNumber, vector <clsClient>& vClients)
+	{
+		clsClient Client;
+		char Answer = 'n';
+		if (FindClientByAccNumber(AccountNumber, vClients,Client))
+		{
+			PrintClientCard(Client);
+			cout << "\n\nAre you sure you want delete this client? y/n ? ";
+			cin >> Answer;
+			if (Answer == 'y' || Answer == 'Y')
+			{
+				MarkClientForDeleteByAccountNumber(AccountNumber, vClients);
+				SaveCleintsDataToFile(fileName, vClients);
+				//Refresh Clients
+				vClients = LoadCleintsDataFromFile();
+				cout << "\n\nClient Deleted Successfully.";
+				return true;
+			}
+		}
+		else
+		{
+			cout << "\nClient with Account Number (" << AccountNumber
+				<< ") is Not Found!";
+			return false;
+		}
+	}
+
+
 	void PrintClientRecord(clsClient &Client)
 	{
 		cout << "| " << setw(15) << left << Client.AccountNumber;
@@ -224,6 +321,16 @@ public:
 		cout << "| " << setw(40) << left << Client.Name;
 		cout << "| " << setw(12) << left << Client.Phone;
 		cout << "| " << setw(12) << left << Client.AccountBalance;
+	}
+
+	void PrintClientCard(clsClient Client)
+	{
+		cout << "\nThe following are the client details:\n";
+		cout << "\nAccout Number: " << Client.AccountNumber;
+		cout << "\nPin Code : " << Client.PinCode;
+		cout << "\nName : " << Client.Name;
+		cout << "\nPhone : " << Client.Phone;
+		cout << "\nAccount Balance: " << Client.AccountBalance;
 	}
 
 

@@ -10,13 +10,10 @@ int main()
    
 	clsClient client;
 
-	vector <clsClient> vClients;
-	vClients = client.LoadCleintsDataFromFile();
-
-	client.PrintAllClientsData(vClients);
-	
-
-
+	vector <clsClient> vClients = client.LoadCleintsDataFromFile();
+	string AccountNumber = client.ReadClientAccountNumber();
+	client.DeleteClientByAccountNumber(AccountNumber, vClients);
+	system("pause>0");
 
 	
 	return 0;
