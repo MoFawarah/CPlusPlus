@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\m.fawareh\\Desktop\\CPP\\Files\\",
+  "WorkspaceRootPath": "C:\\Users\\m.fawareh\\Desktop\\_CPP\\CPlusPlus\\Files\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91C5CA48-B722-4082-99AD-D3DD21B59AAF}|Files\\Files.vcxproj|C:\\Users\\m.fawareh\\Desktop\\CPP\\Files\\Files\\Files.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{91C5CA48-B722-4082-99AD-D3DD21B59AAF}|Files\\Files.vcxproj|C:\\Users\\m.fawareh\\Desktop\\_CPP\\CPlusPlus\\Files\\Files\\Files.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91C5CA48-B722-4082-99AD-D3DD21B59AAF}|Files\\Files.vcxproj|solutionrelative:Files\\Files.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C5CA48-B722-4082-99AD-D3DD21B59AAF}|Files\\Files.vcxproj|C:\\Users\\m.fawareh\\Desktop\\CPP\\Files\\Files\\myFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{91C5CA48-B722-4082-99AD-D3DD21B59AAF}|Files\\Files.vcxproj|C:\\Users\\m.fawareh\\Desktop\\_CPP\\CPlusPlus\\Files\\Files\\myFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{91C5CA48-B722-4082-99AD-D3DD21B59AAF}|Files\\Files.vcxproj|solutionrelative:Files\\myFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,15 +82,23 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "myFile.txt",
-              "DocumentMoniker": "C:\\Users\\m.fawareh\\Desktop\\CPP\\Files\\Files\\myFile.txt",
+              "DocumentMoniker": "C:\\Users\\m.fawareh\\Desktop\\_CPP\\CPlusPlus\\Files\\Files\\myFile.txt",
               "RelativeDocumentMoniker": "Files\\myFile.txt",
-              "ToolTip": "C:\\Users\\m.fawareh\\Desktop\\CPP\\Files\\Files\\myFile.txt",
+              "ToolTip": "C:\\Users\\m.fawareh\\Desktop\\_CPP\\CPlusPlus\\Files\\Files\\myFile.txt",
               "RelativeToolTip": "Files\\myFile.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -101,11 +109,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Files.cpp",
-              "DocumentMoniker": "C:\\Users\\m.fawareh\\Desktop\\CPP\\Files\\Files\\Files.cpp",
+              "DocumentMoniker": "C:\\Users\\m.fawareh\\Desktop\\_CPP\\CPlusPlus\\Files\\Files\\Files.cpp",
               "RelativeDocumentMoniker": "Files\\Files.cpp",
-              "ToolTip": "C:\\Users\\m.fawareh\\Desktop\\CPP\\Files\\Files\\Files.cpp",
+              "ToolTip": "C:\\Users\\m.fawareh\\Desktop\\_CPP\\CPlusPlus\\Files\\Files\\Files.cpp",
               "RelativeToolTip": "Files\\Files.cpp",
-              "ViewState": "AgIAAFYAAAAAAAAAAADwv18AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwvxgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-12T08:00:16.171Z",
               "EditorCaption": ""

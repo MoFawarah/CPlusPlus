@@ -11,6 +11,7 @@ class clsStringNew
 	string _stringValue;
 	char _charValue;
 
+
 	 struct stCounter {
 		int capitalCounter = 0;
 		int smallCounter = 0;
@@ -194,6 +195,7 @@ public:
 		return sentString;
 	}
 
+	
 	static struct stClientData
 	{
 		string AccountNumber;
@@ -209,7 +211,6 @@ public:
 			this->Name = "";
 			this->Phone = "";
 			this->AccountBalance = 0;
-
 		}
 	};
 

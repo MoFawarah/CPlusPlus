@@ -1,38 +1,38 @@
 ﻿  OOP.cpp
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(197,16): warning C4091: 'static ': ignored on left of 'clsStringNew::stClientData' when no variable is declared
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(199,16): warning C4091: 'static ': ignored on left of 'clsStringNew::stClientData' when no variable is declared
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(25,16): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(26,16): warning C4305: '=': truncation from 'int' to 'char'
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(25,16): warning C4309: '=': truncation of constant value
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(26,16): warning C4309: '=': truncation of constant value
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(31,16): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(32,16): warning C4305: '=': truncation from 'int' to 'char'
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(31,16): warning C4309: '=': truncation of constant value
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(32,16): warning C4309: '=': truncation of constant value
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(187,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(188,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(191,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(192,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(331,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(332,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(354,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(355,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(396,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(397,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(426,11): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(427,11): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'OOP.cpp')
   
-C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(552,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\OOP\clsStringNew.h(553,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file 'OOP.cpp')
   
   OOP.vcxproj -> C:\Users\m.fawareh\Desktop\_CPP\CPlusPlus\OOP\x64\Debug\OOP.exe

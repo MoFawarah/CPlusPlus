@@ -3,14 +3,18 @@
 #include "clsUtil.h"
 #include "clsInputValidate.h"
 #include "clsStringNew.h"
+#include "clsClient.h"
 
 int main()
 { 
    
+	clsClient client;
 
+	vector <clsClient> vClients;
+	vClients = client.LoadCleintsDataFromFile();
 
-	clsStringNew::AddClients();
-	system("pause>0");
+	client.PrintAllClientsData(vClients);
+	
 
 
 

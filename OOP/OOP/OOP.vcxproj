@@ -130,6 +130,7 @@
     <ClCompile Include="OOP.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="clsClient.h" />
     <ClInclude Include="clsDate.h" />
     <ClInclude Include="clsEmployee.h" />
     <ClInclude Include="clsInputValidate.h" />
